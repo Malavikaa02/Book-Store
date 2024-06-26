@@ -49,7 +49,12 @@ const Navbar = () => {
                 {/* nav item for large devices */}
                 <ul>
                     {
-                        navItems.map(({Link, path}) => <Link key={path} to={path} ></Link>)
+                        navItems.map(({ link, path }) => (
+                            <li key={path}>
+                                <Link to={path} className='block text-base 
+                                text-black uppercase cursor-pointer hover:text-blue-700'>{link}</Link>
+                            </li>
+                        ))
                     }
                 </ul>
             </div>
