@@ -9,3 +9,4 @@ The MERN Book Store is a full-stack web application for managing a collection of
 + Edit book details
 + Delete books
 + Responsive design
+## Technologies Used
