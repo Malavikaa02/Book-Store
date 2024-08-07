@@ -15,5 +15,20 @@ The MERN Book Store is a full-stack web application for managing a collection of
 + **Database:** MongoDB, Mongoose
 + **Authentication:** JSON Web Tokens (JWT), bcrypt
 + **Other Tools:** Git, Heroku (for deployment)
+## Installation
+1. Clone the repository:
+   ```sh
+    https://github.com/Malavikaa02/Book-Store.git
+    cd mern-book-store
+2. Install dependencies:
+   + For the backend:
+     ```bash
+     cd backend
+     npm install
+     ```
 
-
+   + For the frontend:
+     ```bash
+     cd ../frontend
+     npm install
+     ```
