@@ -10,3 +10,10 @@ The MERN Book Store is a full-stack web application for managing a collection of
 + Delete books
 + Responsive design
 ## Technologies Used
++ **Frontend:** React.js, Redux, React Router, Bootstrap
++ **Backend:** Node.js, Express.js
++ **Database:** MongoDB, Mongoose
++ **Authentication:** JSON Web Tokens (JWT), bcrypt
++ **Other Tools:** Git, Heroku (for deployment)
+
+
