@@ -33,3 +33,4 @@ The MERN Book Store is a full-stack web application for managing a collection of
      npm install
      ```
 ## Set up environment variables
+Create a .env file in the backend directory and add the following variables:
