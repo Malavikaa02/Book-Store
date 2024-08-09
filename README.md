@@ -46,4 +46,4 @@ Create a .env file in the backend directory and add the following variables:
       cd mern-client
       npm run dev
       ```
-The application should now be running on http://localhost:5000 for the frontend and http://localhost:5173 for the backend.
+The application should now be running on http://localhost:5173 for the frontend and http://localhost:5000 for the backend.
