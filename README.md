@@ -49,3 +49,9 @@ Create a .env file in the backend directory and add the following variables:
 The application should now be running on http://localhost:5173 for the frontend and http://localhost:5000 for the backend.
 
 ## Usage
+1.  **Register an account** or **log in** if you already have one.
+2.  **Browse the available books** on the homepage.
+3.  **Search for books** by title, author, or genre using the search bar.
+4.  **Add a new book** by navigating to the "Add Book" page.
+5.  **Edit book details** by clicking the "Edit" button on a book.
+6.  **Delete a book** by clicking the "Delete" button on a book.
