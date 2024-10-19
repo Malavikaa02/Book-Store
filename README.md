@@ -48,3 +48,11 @@ Create a .env file in the backend directory and add the following variables:
       ```
 The application should now be running on http://localhost:5173 for the frontend and http://localhost:5000 for the backend.
 
+## Contributing
+Contributions are welcome! Please follow these steps:
+   1. Fork the repository.
+   2. Create a new branch (**git checkout -b feature-branch**).
+   3. Make your changes.
+   4. Commit your changes (**git commit -m 'Add some feature'**).
+   5. Push to the branch (**git push origin feature-branch**).
+   6. Open a pull request.
