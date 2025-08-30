@@ -1,7 +1,7 @@
 # 📚✨ MERN Book Store 🚀
 
 ## 📖 Description
-The **MERN Book Store** is a full-stack web application that allows users to manage a collection of books. Users can 📖 browse, 🔍 search, ➕ add, 📝 edit, and ❌ delete books with an intuitive interface. Built using the **MERN stack** (MongoDB, Express.js, React.js, and Node.js), this application offers seamless 🔑 user authentication and a responsive design 📱.
+The **MERN Book Store** is a full-stack web application that allows users to manage a collection of books. Users can 📖 browse, 🔍 search, ➕ add, 📝 edit, and ❌ delete books with an intuitive interface. Built using the **MERN stack** (MongoDB, Express.js, React.js, and Node.js), this application offers seamless 🔑 user authentication and a responsive dynamic design 📱.
 
 ---
 
